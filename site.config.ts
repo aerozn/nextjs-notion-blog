@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "0f98cdf158224b56815b620b6e01911b",
+  rootNotionSpaceId: "5fa1ba3c-c760-43f8-9fd2-b85820d46bed",
 
   // basic site info (required)
   name: '月下映画',
